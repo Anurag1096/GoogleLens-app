@@ -1,0 +1,21 @@
+.nav-wrapper {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    padding: 14px 8px;
+}
+.btn-initial{
+    border-radius:50%;
+    text-align:center;
+    padding:2px;
+    width: 34px;
+    height: 34px;
+    background-color:rgb(162, 165, 168);
+    color:white;
+    border:none;
+}
+.btn-initial span{
+    text-align:center;
+    font-size:16px;
+    font-weight:medium;
+}
