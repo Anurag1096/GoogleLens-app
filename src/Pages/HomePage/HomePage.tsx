@@ -1,4 +1,4 @@
-import React from 'react'
+
 import HomePageNav from '../../ Components/HomePageComp/homePageNav'
 import TextSearchComp from '../../ Components/HomePageComp/TextSearchComp'
 function HomePage() {
