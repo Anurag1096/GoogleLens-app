@@ -1,0 +1,33 @@
+.input-wrapper{
+    position: relative;
+    border:none;
+    width: 100%;
+}
+
+.text-search{
+    width:100%;
+    height:54px;
+    border:1px solid;
+    border-radius:8px;
+    padding:14px;
+    margin:8px;
+}
+.input-icon {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #888;
+    cursor: pointer;
+    font-size: 16px;
+  }
+
+  .input-icon.left {
+    left: 8px;
+  }
+  
+  .input-icon.right {
+    right: 18px;
+  }
+  .input-icon.right2 {
+    right: 10px;
+  }
