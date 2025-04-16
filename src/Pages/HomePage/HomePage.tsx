@@ -1,6 +1,7 @@
 
 import HomePageNav from '../../ Components/HomePageComp/homePageNav'
-import TextSearchComp from '../../ Components/HomePageComp/TextSearchComp'
+import TextSearchLink from '../../ Components/HomePageComp/TextSearchLink'
+
 function HomePage() {
   // This Home page will handle all the data calling and passing data for every component
   // This page will follow the composition design
@@ -14,7 +15,7 @@ function HomePage() {
         {/* Google logo */}
        
         {/* Text Search component */}
-        <TextSearchComp/>
+        <TextSearchLink/>
         {/* fidget component's section */}
         {/* Real time feed section */}
 
